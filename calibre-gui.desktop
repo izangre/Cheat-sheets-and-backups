@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=calibre
+GenericName=E-book library management
+Comment=E-book library management: Convert, view, share, catalogue all your e-books
+TryExec=calibre
+Exec=env CALIBRE_USE_DARK_PALETTE=1 calibre %F
+Icon=calibre-gui
+Categories=Office;
+X-GNOME-UsesNotifications=true
+MimeType=application/epub+zip;application/x-mobipocket-subscription;application/x-mobipocket-ebook;text/plain;application/x-ruby;text/fb2+xml;application/x-mobi8-ebook;application/ereader;text/x-markdown;image/vnd.djvu;application/x-cbc;text/html;application/xhtml+xml;application/x-cbr;application/vnd.ms-word.document.macroenabled.12;text/rtf;application/x-cb7;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/x-cbz;application/vnd.oasis.opendocument.text;application/pdf;application/oebps-package+xml;application/x-sony-bbeb;x-scheme-handler/calibre;

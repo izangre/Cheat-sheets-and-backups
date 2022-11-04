@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.13.23
+Type=Application
+Name=App Name
+Comment=Application Description
+TryExec=/Path/to/app/binary
+Exec=/path/to/app/binary
+Icon=/Path/to/icon
+Actions=Editor
