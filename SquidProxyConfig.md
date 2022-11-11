@@ -1,0 +1,1 @@
+Squid server Proxy Configuration
